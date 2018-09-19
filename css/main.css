@@ -1,3 +1,13 @@
-main {
+body{
   background-color: #F7DBD7;
+}
+
+main {
+  font-family: 'Roboto', sans-serif;
+  color: #8B7C7B;
+}
+
+h1, h2 {
+  color: #58A4B0;
+  font-family: 'Lobster Two', cursive;
 }
