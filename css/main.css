@@ -11,3 +11,8 @@ h1, h2 {
   color: #58A4B0;
   font-family: 'Lobster Two', cursive;
 }
+
+a {
+  text-decoration: none;
+  list-style: none;
+}
